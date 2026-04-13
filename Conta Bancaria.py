@@ -8,7 +8,7 @@ extrato_deposito = []
 extrato_saque = []
 
 print()
-print(f"=============MENU NUBANK=============\n")
+print(f"=============MENU BANCO=============\n")
 
 while True:
     sleep(3)
