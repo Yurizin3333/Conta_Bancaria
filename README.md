@@ -1,2 +1,2 @@
 # Conta_Bancaria
-Criação de um sistema que simula ações de uma conta bancária em python.
+Sistema bancário com operações de depósito, saque e controle de saldo simples, incluindo regras como limite por operação e controle de saques diários.
